@@ -1,0 +1,5 @@
+pillow==11.0.0
+crewai==0.86.0
+crewai-tools==0.17.0
+langchain-openai==0.2.12
+openai==1.57.4
