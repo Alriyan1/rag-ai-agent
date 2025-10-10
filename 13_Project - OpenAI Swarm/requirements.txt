@@ -1,0 +1,4 @@
+bs4==4.12.3
+requests==2.32.3
+swarm @ git+https://github.com/openai/swarm.git
+openai==1.57.4
